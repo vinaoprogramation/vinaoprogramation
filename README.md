@@ -5,7 +5,7 @@ Estou no 3° Ano do Curso Técnico em Desenvlvimento de Sistemas Integrado ao En
 
 ## 🚀 Sobre Mim
 
-- 💻 Atualmente desenvolvend: **Sereno** (um aplicativo de clima minimalista e "calmo").
+- 💻 Atualmente desenvolvendo: **Sereno** (um aplicativo de clima minimalista e "calmo").
 - 🎓 Estudando Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio - 3ª série.
 - 🌱 Buscando constantemente aprimorar minhas habilidades em arquitetura de código e design de interface.
 - 📫 Como me encontrar: vinicius300712@gmail ou no LinkedIn linkedin.com/in/vinicius-xister/.
