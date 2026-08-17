@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinícius!
 
-Estou no 3° Ano do Curso Técnico em Desenvlvimento de Sistemas Integrado ao Ensino Médio / Minhas principais áreas de estudos são Mobile e Back-end. Também tenho noções básicas de Front-end e responsividade.
+Estou no 3° Ano do Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio / Minhas principais áreas de estudos são Mobile e Back-end. Também tenho noções básicas de Front-end e responsividade.
 ---
 
 ## 🚀 Sobre Mim
