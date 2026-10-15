@@ -5,9 +5,9 @@ Estou no 3° Ano do Curso Técnico em Desenvolvimento de Sistemas Integrado ao E
 
 ## 🚀 Sobre Mim
 
-- 💻 Atualmente desenvolvendo: **Reni 3D App** (Meu TCC).
+- 💻 Atualmente desenvolvendo: **VersoLivre** Uma aplicação web de compartilhamento de textos literários. / uma rede social literária.
 - 🎓 Estudando Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio - 3ª série.
-- 🌱 Buscando constantemente aprimorar minhas habilidades em arquitetura de código e design de interface.
+- 🌱 Buscando constantemente aprimorar minhas habilidades em arquitetura de código, segurança, escalonagem e design de interface.
 - 📫 Como me encontrar: vinicius300712@gmail ou no LinkedIn linkedin.com/in/vinicius-xister/.
 
 ---
